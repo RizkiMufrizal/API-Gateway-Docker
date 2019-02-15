@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: oauth2-server
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        healthCheckPath: /health-check
+        healthCheckInterval: 20s
+        prefer-ip-address: true
+      config:
+        enabled: true
+        fail-fast: true
