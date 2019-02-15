@@ -1,0 +1,142 @@
+[
+    {
+        "key": "config/oauth2-server/spring/oauth2/resource/filter-order",
+        "flags": 0,
+        "value": "Mw=="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/password",
+        "flags": 0,
+        "value": "cmVkaXNzZXNzaW9ub2F1dGgy"
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/host",
+        "flags": 0,
+        "value": "bG9jYWxob3N0"
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/port",
+        "flags": 0,
+        "value": "NjM3OQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/max-total",
+        "flags": 0,
+        "value": "Mg=="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/max-idle",
+        "flags": 0,
+        "value": "Mg=="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/min-idle",
+        "flags": 0,
+        "value": "MQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/min-evictable-idle-time-millis",
+        "flags": 0,
+        "value": "NjA="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/time-between-eviction-runs-millis",
+        "flags": 0,
+        "value": "MzA="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/block-when-exhausted",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/redis/use-pool",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/driver-class-name",
+        "flags": 0,
+        "value": "b3JnLnBvc3RncmVzcWwuRHJpdmVy"
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/url",
+        "flags": 0,
+        "value": "amRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzIvZGJfb2F1dGgyX3NlcnZlcj9hdXRvUmVjb25uZWN0PXRydWU="
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/username",
+        "flags": 0,
+        "value": "cG9zdGdyZXNxbGRi"
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/password",
+        "flags": 0,
+        "value": "cG9zdGdyZXNxbGRi"
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/poolName",
+        "flags": 0,
+        "value": "U3ByaW5nQm9vdEhpa2FyaUNQ"
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/maximumPoolSize",
+        "flags": 0,
+        "value": "NQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/minimumIdle",
+        "flags": 0,
+        "value": "Mw=="
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/maxLifetime",
+        "flags": 0,
+        "value": "MjAwMDAwMA=="
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/connectionTimeout",
+        "flags": 0,
+        "value": "MzAwMDA="
+    },
+    {
+        "key": "config/oauth2-server/spring/datasource/idleTimeout",
+        "flags": 0,
+        "value": "MzAwMDA="
+    },
+    {
+        "key": "config/oauth2-server/spring/jpa/generate-ddl",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/jpa/show-sql",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/jpa/hibernate/ddl-auto",
+        "flags": 0,
+        "value": "dXBkYXRl"
+    },
+    {
+        "key": "config/oauth2-server/spring/jpa/properties/hibernate/format_sql",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/oauth2-server/spring/jpa/database-platform",
+        "flags": 0,
+        "value": "b3JnLmhpYmVybmF0ZS5kaWFsZWN0LlBvc3RncmVTUUw5RGlhbGVjdA=="
+    },
+    {
+        "key": "config/oauth2-server/server/port",
+        "flags": 0,
+        "value": "JHtQT1JUOjB9"
+    },
+    {
+        "key": "config/oauth2-server/spring/jackson/serialization/indent_output",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    }
+]

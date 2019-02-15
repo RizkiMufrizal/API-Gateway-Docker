@@ -1,0 +1,57 @@
+[
+    {
+        "key": "config/api-gateway/spring/redis/password",
+        "flags": 0,
+        "value": "cmVkaXNzZXNzaW9ub2F1dGgy"
+    },
+    {
+        "key": "config/api-gateway/spring/redis/host",
+        "flags": 0,
+        "value": "bG9jYWxob3N0"
+    },
+    {
+        "key": "config/api-gateway/spring/redis/port",
+        "flags": 0,
+        "value": "NjM3OQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/redis/max-total",
+        "flags": 0,
+        "value": "Mg=="
+    },
+    {
+        "key": "config/api-gateway/spring/redis/max-idle",
+        "flags": 0,
+        "value": "Mg=="
+    },
+    {
+        "key": "config/api-gateway/spring/redis/min-idle",
+        "flags": 0,
+        "value": "MQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/redis/min-evictable-idle-time-millis",
+        "flags": 0,
+        "value": "NjA="
+    },
+    {
+        "key": "config/api-gateway/spring/redis/time-between-eviction-runs-millis",
+        "flags": 0,
+        "value": "MzA="
+    },
+    {
+        "key": "config/api-gateway/spring/redis/block-when-exhausted",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/redis/use-pool",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/jackson/serialization/indent_output",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    }
+]
