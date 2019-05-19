@@ -1,5 +1,80 @@
 [
     {
+        "key": "config/api-gateway/spring/datasource/driver-class-name",
+        "flags": 0,
+        "value": "b3JnLnBvc3RncmVzcWwuRHJpdmVy"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/url",
+        "flags": 0,
+        "value": "amRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzIvZGJfYXBpX2dhdGV3YXk/YXV0b1JlY29ubmVjdD10cnVl"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/username",
+        "flags": 0,
+        "value": "cG9zdGdyZXNxbGRi"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/password",
+        "flags": 0,
+        "value": "cG9zdGdyZXNxbGRi"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/poolName",
+        "flags": 0,
+        "value": "U3ByaW5nQm9vdEhpa2FyaUNQ"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/maximumPoolSize",
+        "flags": 0,
+        "value": "NQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/minimumIdle",
+        "flags": 0,
+        "value": "Mw=="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/maxLifetime",
+        "flags": 0,
+        "value": "MjAwMDAwMA=="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/connectionTimeout",
+        "flags": 0,
+        "value": "MzAwMDA="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/idleTimeout",
+        "flags": 0,
+        "value": "MzAwMDA="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/generate-ddl",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/show-sql",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/hibernate/ddl-auto",
+        "flags": 0,
+        "value": "dXBkYXRl"
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/properties/hibernate/format_sql",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/database-platform",
+        "flags": 0,
+        "value": "b3JnLmhpYmVybmF0ZS5kaWFsZWN0LlBvc3RncmVTUUw5RGlhbGVjdA=="
+    },
+    {
         "key": "config/api-gateway/spring/redis/password",
         "flags": 0,
         "value": "cmVkaXNzZXNzaW9ub2F1dGgy"
@@ -53,5 +128,80 @@
         "key": "config/api-gateway/spring/jackson/serialization/indent_output",
         "flags": 0,
         "value": "dHJ1ZQ=="
+    },
+        {
+        "key": "config/api-gateway/spring/datasource/driver-class-name",
+        "flags": 0,
+        "value": "b3JnLnBvc3RncmVzcWwuRHJpdmVy"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/url",
+        "flags": 0,
+        "value": "amRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzIvZGJfYXBpX2dhdGV3YXk/YXV0b1JlY29ubmVjdD10cnVl"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/username",
+        "flags": 0,
+        "value": "cG9zdGdyZXNxbGRi"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/password",
+        "flags": 0,
+        "value": "cG9zdGdyZXNxbGRi"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/poolName",
+        "flags": 0,
+        "value": "U3ByaW5nQm9vdEhpa2FyaUNQ"
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/maximumPoolSize",
+        "flags": 0,
+        "value": "NQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/minimumIdle",
+        "flags": 0,
+        "value": "Mw=="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/maxLifetime",
+        "flags": 0,
+        "value": "MjAwMDAwMA=="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/connectionTimeout",
+        "flags": 0,
+        "value": "MzAwMDA="
+    },
+    {
+        "key": "config/api-gateway/spring/datasource/idleTimeout",
+        "flags": 0,
+        "value": "MzAwMDA="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/generate-ddl",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/show-sql",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/hibernate/ddl-auto",
+        "flags": 0,
+        "value": "dXBkYXRl"
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/properties/hibernate/format_sql",
+        "flags": 0,
+        "value": "dHJ1ZQ=="
+    },
+    {
+        "key": "config/api-gateway/spring/jpa/database-platform",
+        "flags": 0,
+        "value": "b3JnLmhpYmVybmF0ZS5kaWFsZWN0LlBvc3RncmVTUUw5RGlhbGVjdA=="
     }
 ]
